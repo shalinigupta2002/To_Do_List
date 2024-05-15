@@ -1,4 +1,3 @@
-import React from 'react'
 import { MdAddToPhotos } from "react-icons/md";
 
 function Add({ onAdd }) {
